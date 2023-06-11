@@ -1,0 +1,91 @@
+
+.sidebar{
+    background-color:rgb(9, 9, 9); 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    width: 72px; 
+    padding-left: 4px;
+    padding-top: 6px;
+    margin-bottom: 6px;
+    
+
+}
+
+.side-bar{
+    background-color: rgb(9, 9, 9);
+    color: white;
+    height: 43px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    
+}
+
+.side-bar:hover{
+    background-color: rgb(31, 30, 30);
+}
+.side-icon1{
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    z-index: 100;
+   }
+
+.side-icon2{
+    height: 24px;
+    width: 24px;
+cursor: pointer;
+}
+
+.side-icon3{
+    height: 24px;
+    width: 24px;
+cursor:pointer;
+}
+.side-icon4{
+    height: 24px;
+    width: 26px;
+cursor:pointer;
+}
+.side-icon5{
+    height: 24px;
+    width: 28px;
+cursor: pointer;
+}
+.home{
+    font-size: 11px;
+    padding-left:8px;
+    padding-top: 5px;
+    padding-right: 6px;
+}
+.shorts{
+    font-size: 11px;
+    padding-left:9px;
+    padding-top: 8px;
+    padding-right: 5px;
+}
+.subscribtion{
+    font-size: 11px;
+    padding-left:4px;
+    padding-top: 8px;
+    padding-right: 5px;
+}
+.library{
+    font-size: 11px;
+    padding-left:9px;
+    padding-top: 8px;
+    padding-right: 5px;
+}
+.history{
+    font-size: 11px;
+    padding-left:9px;
+    padding-top: 8px;
+    padding-right: 5px;
+}
